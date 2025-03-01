@@ -19,8 +19,8 @@ HydroculusProject adalah sistem berbasis web yang dirancang untuk memantau sumbe
 ---
 
 # Fitur Utama
-✅ Dashboard Monitoring – Menampilkan data kualitas air secara visual dengan grafik dan tabel interaktif.
-✅ Integrasi Sensor – Mengumpulkan data dari sensor kualitas air (pH, suhu, TDS, dll.).
-✅ Visualisasi Data – Grafik tren perubahan kualitas air berdasarkan data historis.
-✅ API Endpoint – Endpoint RESTful untuk mengambil dan mengirimkan data sensor.
-✅ Manajemen Pengguna – Login dan autentikasi pengguna untuk mengakses fitur tertentu.
+- ✅ Dashboard Monitoring – Menampilkan data kualitas air secara visual dengan grafik dan tabel interaktif.
+- ✅ Integrasi Sensor – Mengumpulkan data dari sensor kualitas air (pH, suhu, TDS, dll.).
+- ✅ Visualisasi Data – Grafik tren perubahan kualitas air berdasarkan data historis.
+- ✅ API Endpoint – Endpoint RESTful untuk mengambil dan mengirimkan data sensor.
+- ✅ Manajemen Pengguna – Login dan autentikasi pengguna untuk mengakses fitur tertentu.
